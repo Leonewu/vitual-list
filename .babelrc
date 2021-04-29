@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "import", {
+        "libraryName": "xiao-ui",
+        "camel2DashComponentName": false
+      }
+    ]
+  ]
+}
